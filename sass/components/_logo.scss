@@ -1,0 +1,24 @@
+.logo {
+    font-family: Raleway, sans-serif;
+    font-weight: bold;
+    font-size: $font-size;
+    color: $title-text-color;
+    line-height: 1.2;
+    text-decoration:none;
+
+    display: flex;
+    margin-right: 93px;
+}
+.logo__web {
+    color: $web-color;
+}
+.footer-logo{
+    font-family: Raleway, sans-serif;
+    font-weight: bold;
+    font-size: 26px;
+    line-height: 1.19;
+    color: $backgraund-color-general;
+    text-decoration:none;
+
+    display: block;
+}
